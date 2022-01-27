@@ -1,4 +1,1 @@
-# object_ruby
-# ruby
-# ruby
-# object_ruby
+# オブジェクト指向を学ぶための練習
